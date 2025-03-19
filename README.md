@@ -27,8 +27,5 @@ Some of the content will obviously be intrinsically better pieces of code than o
 | [The domain knowledge dilemma](http://rednafi.com/zephyr/domain_knowledge_dilemma/) | Sun, 19 Jan 2025 |
 </div>
 
-<br><br>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reverendbayes&theme=github)
 
 
