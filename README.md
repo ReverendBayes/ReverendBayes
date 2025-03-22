@@ -10,7 +10,7 @@ In education and research, I build generative AI apps and recommender systems fo
 
 In automotive, I build AI/ML models using deep learning architectures (RNN, CNN, LSTM) and computer vision with OEM datasets. I apply clustering, gradient boosting, anomaly detection, and neural networks. I deploy full AI pipelines using TensorFlow, PyTorch, and no-code platforms like DataRobot and H2O.
 
-I code in Python, Java, and C++. I work with SQL, Oracle, SQL Server, and NoSQL. I track KPIs to measure impact, fine-tune strategies, and lead AI adoption. I also advise on AI product strategy, focusing on real-world applications in business.
+I code in Python, Java, and C++. I work with SQL, Oracle, SQL Server, and NoSQL. I track KPIs to measure impact, fine-tune strategies, and lead AI adoption. I work with BI tools like Power BI to build dashboards and communicate insights. I also advise on AI product strategy, focusing on real-world applications in business.
 <br>
 
 
