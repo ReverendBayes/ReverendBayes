@@ -14,6 +14,8 @@ I code in Python, Java, and C++. I work with SQL, Oracle, SQL Server, and NoSQL.
 <br>
 
 
+
+🛠️ **Note:** Much of my previous work has been in private and corporate repositories. I'm now building out my public portfolio to reflect those capabilities and contributions.
 </div><div align="center">
   
   
