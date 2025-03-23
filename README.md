@@ -1,6 +1,8 @@
 <div align="center">
   
-# Hi, I'm James.
+# You’ve got a problem? Yo, I’ll solve it.
+
+### Hi, I'm James.
 
 I use advanced analytics to extract insights from large, complex datasets and drive decision-making in business, research, and automotive (OEM) environments. I work with cross-functional teams to solve real problems, build predictive models, and deploy scalable AI that boosts efficiency, improves user experience, and fuels growth. I create AI strategies tied to business goals and find opportunities to apply machine learning for impact.
 
