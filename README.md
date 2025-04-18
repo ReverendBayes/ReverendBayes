@@ -19,7 +19,7 @@
 <br>
 
 **Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, JSON  
-**ML/NLP/GenAI:** GPT-4, LangChain, Transformers, spaCy, Whisper, VAEs, CNNs, RNNs, LSTMs, distilBERT, GANs, Keras, SparkML  
+**ML/NLP/GenAI:** GPT-4o/4/3.5, LangChain, Transformers, spaCy, Whisper, VAEs, CNNs, RNNs, LSTMs, distilBERT, GANs, Keras, SparkML  
 **Frontend:** React, TypeScript, HTML/CSS, Flask, Django, Streamlit  
 **Infrastructure:** Docker, Kubernetes, CI/CD, AWS, GCP, Azure, Git, Agile, DataOps  
 **Analytics & BI:** DuckDB, Altair, Power BI, Tableau, DataRobot, H2O, Microsoft Fabric, Databricks, Jupyter Notebook  
