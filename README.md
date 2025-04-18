@@ -38,7 +38,7 @@ In education and research, I build generative AI apps and recommender systems fo
 
 In automotive, I build AI/ML models using deep learning architectures (RNN, CNN, LSTM) and computer vision with OEM datasets. I apply clustering, gradient boosting, anomaly detection, and neural networks. I deploy full AI pipelines using TensorFlow, PyTorch, and no-code platforms like DataRobot and H2O.
 
-I code in Python, Java, C++, JavaScript, and TypeScript. I work with SQL, Oracle, SQL Server, and NoSQL databases, and routinely handle structured data in JSON. I develop UIs and full-stack apps using HTML, CSS, and modern frontend frameworks. My work spans classical ML, NLP, and LLM-based systems—from spaCy pipelines to GPT-powered tools. I track KPIs to measure impact, fine-tune strategies, and lead AI adoption. I work with BI tools like Power BI to build dashboards and communicate insights. I also advise on AI product strategy, focusing on real-world applications in business.
+I code in Python, Java, C++, JavaScript, and TypeScript. I work with SQL, Oracle, SQL Server, and NoSQL databases, and routinely handle structured data in JSON. I develop UIs and full-stack apps using HTML, CSS, and modern frontend frameworks. My work spans classical ML, NLP, and LLM-based systems—from spaCy pipelines to GPT-powered tools. I track KPIs to measure impact, fine-tune strategies, and lead AI adoption. I build dashboards using both Power BI and custom frontends (React + TypeScript), and integrate them with backend analytics, cognitive services, and Microsoft tools like Azure Speech for richer insight delivery. I also advise on AI product strategy, focusing on real-world applications in business.
 
 </p>
 </details>
