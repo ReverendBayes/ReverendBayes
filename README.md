@@ -22,7 +22,7 @@
 
 <p>
 
-I build full-stack AI products that bring models into real-world use—merging UX, analytics, and privacy-first design. I prioritize stacks that are tightly engineered, cost-effective, and highly transparent. I like clean architecture and user-mesmerizing UIs (or at least clean, user-friendly, nonoffensive frontends when strapped for time). I always code with the next guy in mind—even if that next guy is future me.
+I build full-stack AI products that bring models into real-world use—merging UX, analytics, and privacy-first design. I prioritize stacks that are tightly engineered, cost-effective, and highly transparent. I like clean architecture and user-mesmerizing UIs (or at least clean, user-friendly, non-offensive frontends when strapped for time). I always code with the next guy in mind—even if that next guy is future me.
 
 My open-source projects include GenAI-native BI platforms, LLM-driven call center analytics, and anomaly detection tools for automotive diagnostics. These systems combine LangChain, GPT-4 (and GPT-3.5 when affordable token cost is a priority), semantic search, vector databases, custom pipelines, and real-time analytics layers using DuckDB and Altair. I’ve shipped local-first apps with PII redaction (spaCy + Presidio), live transcription (Whisper), and smart dashboards (React + TypeScript) that surface context-aware insights. I connect LLMs to structured and unstructured data sources, and build end-to-end workflows that actually work under real-world constraints.
 
