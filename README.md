@@ -17,6 +17,8 @@
 
 ## About Me
 
+Full-stack AI engineer who builds production-grade systems that bridge models, infrastructure, and user interfaces. I design and deploy tightly engineered, cost-effective, and transparent ML applications across LLMs, computer vision, analytics, and research. I specialize in building real tools that work under real-world constraints: privacy-first GenAI platforms, multi-voice LLM agents, custom NLP systems, and field-adjacent tools that replicate the logic of proprietary systems using open resources. Experienced across nonprofit, automotive, enterprise, and research domains.
+
 <details>
 <summary>Click to expand full bio</summary> 
 
