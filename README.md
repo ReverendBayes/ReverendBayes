@@ -48,7 +48,7 @@ I code in Python, Java, C++, JavaScript, and TypeScript. I work with SQL, Oracle
 
 
 
-🛠️ **Note:** Much of my previous work has been in private and corporate repositories. I'm now building out my public portfolio to reflect those capabilities and contributions.
+🛠️ **Note:** Much of my previous work lives in private or corporate repos. I'm now building out my public portfolio to reflect those capabilities and contributions.
 </div><div align="center">
   
   
