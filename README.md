@@ -7,13 +7,27 @@
 
 ## Tech Stack
 
-**Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, JSON  
-**ML/NLP/GenAI:** spaCy, Transformers, GPT-4, LangChain, VAEs, RNNs, CNNs, LSTMs, Whisper  
-**Infra:** Docker, Kubernetes, CI/CD, GCP, Azure, AWS  
-**Frontend:** React, TypeScript, HTML/CSS  
-**Analytics + Tooling:** DuckDB, Altair, Power BI, DataRobot, H2O  
+**Languages:** Python, JavaScript, TypeScript, SQL 🔽  
+**ML/NLP/GenAI:** GPT-4, LangChain, Transformers, spaCy, Whisper 🔽  
+**Infra:** Docker, Kubernetes, CI/CD, AWS, GCP, Azure 🔽  
+**Frontend:** React, TypeScript, HTML/CSS 🔽  
+**Analytics & Tooling:** DuckDB, Altair, Power BI, DataRobot, H2O 🔽  
 
----
+<details>
+  <summary> Click to expand full stack</summary>
+
+<br>
+
+**Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, JSON  
+**ML/NLP/GenAI:** GPT-4, LangChain, Transformers, spaCy, Whisper, VAEs, CNNs, RNNs, LSTMs, distilBERT, GANs, Keras, SparkML  
+**Frontend:** React, TypeScript, HTML/CSS, Flask, Django, Streamlit  
+**Infrastructure:** Docker, Kubernetes, CI/CD, AWS, GCP, Azure, Git, Agile, DataOps  
+**Analytics & BI:** DuckDB, Altair, Power BI, Tableau, DataRobot, H2O, Microsoft Fabric, Databricks, Jupyter Notebook  
+**Data & Pipelines:** SQL Server, Oracle, NoSQL, BigQuery, Redshift, FAISS, SSIS, ActiveBatch  
+**Other:** FastAPI, RESTful APIs, MPC
+
+</details>
+
 
 ## About Me
 
