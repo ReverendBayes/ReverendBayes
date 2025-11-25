@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I'm James. | Full-Stack AI Engineer
+### Hi, I'm Crystal. | Full-Stack AI Engineer
   
 # You’ve got a problem? Yo, I’ll solve it.
 ---
